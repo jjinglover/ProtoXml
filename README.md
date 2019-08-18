@@ -1,1 +1,2 @@
 # ProtoXml
+使用protobuf的反射、自定义选项等特性配合tinyxml2根据proto文件自动解析Xml，并将数据映射到protobuf
