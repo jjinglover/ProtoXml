@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSpy v2013 (http://www.altova.com) by  () -->
+<root version="1">
+	<attr name="First Middle School" student_num="4" grade="96.5">
+	</attr>
+	<student id="1" name="kangkang" scores="92,96,91"/>
+	<student id="2" name="Bob" scores="89,100,90"/>
+	<student id="3" name="Tom" scores="90,97,92"/>
+	<student id="4" name="Kimi" scores="87,98,94"/>
+</root>
